@@ -1,6 +1,12 @@
 
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failury" alt="failury" /></a> </p>
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,7 +14,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=failury&show_icons=true&locale=en&layout=compact" alt="failury" /></p>
 
+
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=failury&show_icons=true&locale=en" alt="failury" /></p>
+
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=failury&" alt="failury" /></p>
 
